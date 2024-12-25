@@ -1,0 +1,39 @@
+Body {
+  
+  background-color: lightcyan;
+  
+  
+  
+}
+
+a {
+  
+  text-decoration: none;
+  color:black;
+  
+  
+}
+
+a:actived{
+  
+  color: black;
+  
+}
+
+a:hover{
+  color:black;
+  
+}
+
+iframe {
+  
+  width: 100vw;
+}
+
+.foda {
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
